@@ -1,16 +1,53 @@
-# React + Vite
+# url_shortener
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive web application built using  **React**, and **Tailwind CSS**. This project focuses on clean UI, scalable structure, and smooth user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Features
 
-## React Compiler
+*  Fast and optimized performance
+*  Fully responsive design
+*  Modern UI with reusable components
+*  Dynamic routing (Next.js App Router)
+*  Organized folder structure
+*  Component-based architecture
+*  SEO-friendly pages
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+##  Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Library:** React
+* **Styling:** Tailwind CSS
+* **Language:** JavaScript (ES6+)
+* **Version Control:** Git & GitHub
+
+---
+
+##  Deployment
+
+You can deploy this project easily using:
+
+* Netlify
+* Any Node.js hosting platform
+
+---
+
+##  Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a pull request
+
+---
+
+##  Author
+
+**Steve Anterson**
+GitHub: https://github.com/steveanterson
+
+---
